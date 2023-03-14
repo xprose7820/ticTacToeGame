@@ -1,0 +1,15 @@
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\cSharpConsoleGame\ticTacToeFile\obj\Debug\net7.0\ticTacToeFile.csproj.AssemblyReference.cache
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\cSharpConsoleGame\ticTacToeFile\obj\Debug\net7.0\ticTacToeFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\cSharpConsoleGame\ticTacToeFile\obj\Debug\net7.0\ticTacToeFile.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\cSharpConsoleGame\ticTacToeFile\obj\Debug\net7.0\ticTacToeFile.AssemblyInfo.cs
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\cSharpConsoleGame\ticTacToeFile\obj\Debug\net7.0\ticTacToeFile.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\cSharpConsoleGame\ticTacToeFile\bin\Debug\net7.0\ticTacToeFile.exe
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\cSharpConsoleGame\ticTacToeFile\bin\Debug\net7.0\ticTacToeFile.deps.json
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\cSharpConsoleGame\ticTacToeFile\bin\Debug\net7.0\ticTacToeFile.runtimeconfig.json
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\cSharpConsoleGame\ticTacToeFile\bin\Debug\net7.0\ticTacToeFile.dll
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\cSharpConsoleGame\ticTacToeFile\bin\Debug\net7.0\ticTacToeFile.pdb
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\cSharpConsoleGame\ticTacToeFile\obj\Debug\net7.0\ticTacToeFile.dll
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\cSharpConsoleGame\ticTacToeFile\obj\Debug\net7.0\refint\ticTacToeFile.dll
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\cSharpConsoleGame\ticTacToeFile\obj\Debug\net7.0\ticTacToeFile.pdb
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\cSharpConsoleGame\ticTacToeFile\obj\Debug\net7.0\ticTacToeFile.genruntimeconfig.cache
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\cSharpConsoleGame\ticTacToeFile\obj\Debug\net7.0\ref\ticTacToeFile.dll
